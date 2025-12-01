@@ -1,4 +1,4 @@
-<h1>Hi, My name is Bruce Sanders! <br/><a href="https://www.linkedin.com/in/bsanders81/">IT/Security Professional</a>,
+<h1>Hi, My name is Bruce Sanders! <br/><a href="https://www.linkedin.com/in/bsanders81/">IT Support & Security Professional</a>,
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
