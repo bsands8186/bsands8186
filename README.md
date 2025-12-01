@@ -1,9 +1,9 @@
 <h1>Hi, My name is Bruce Sanders! <br/><a href="https://www.linkedin.com/in/bsanders81/">IT Support & Security Professional</a>,
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory Practice</b>
+  - [Configure Domain Account Security](https://youtu.be/OpxOzmH6NvM)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
